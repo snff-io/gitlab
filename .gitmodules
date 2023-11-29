@@ -1,0 +1,3 @@
+[submodule "smhtml"]
+	path = smhtml
+	url = git@gitlab.com:snff/smhtml.git

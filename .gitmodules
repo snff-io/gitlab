@@ -1,3 +1,6 @@
 [submodule "smhtml"]
 	path = smhtml
 	url = git@gitlab.com:snff/smhtml.git
+[submodule "bellaluna"]
+	path = bellaluna
+	url = git@gitlab.com:snff/bellaluna.git
